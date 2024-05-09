@@ -1,13 +1,13 @@
-# Hello, I'm Gil! 👋
+# Hello, I'm Gil!
 
 ## About Me
-🔍 I'm a passionate developer who loves to learn and solve problems. I believe in using the right tool for the job and enjoy coding in various languages as the need arises.
+:octocat: I'm a passionate developer who loves to learn and solve problems. I believe in using the right tool for the job and enjoy coding in various languages as the need arises.
 
-🛠️ **Technologies & Tools:**
+**Technologies & Tools:**
 - **Automation:** Home Assistant, Homebridge, Raspberry Pi, SmartThings
-- **Languages:** C#, JavaScript, AppleScript, Python, Shell, HTML, CSS
-- **Frameworks:** ASP.NET Core, ASP.NET 4.x (not Core)
-- **Platforms:** iOS (Swift)
+- **Languages:** ```C#```, ```JavaScript```, ```AppleScript```, ```Python```, ```Shell```, ```HTML```, ```CSS```...
+- **Frameworks:** ASP.NET Core and ASP.NET 4.x
+- **Platforms:** iOS (```Swift```)
 
 ## Projects
 Here are some of the projects I've worked on:
@@ -17,4 +17,4 @@ Here are some of the projects I've worked on:
 - **And so much more...**
 
 ## Learning Journey
-🌱 I'm a perpetual learner, constantly improving my craft one error at a time. I dabble in a bit of everything and am always eager to explore new technologies and frameworks.
+I'm a perpetual learner, constantly improving my craft one error at a time. I dabble in a bit of everything and am always eager to explore new technologies and frameworks.
